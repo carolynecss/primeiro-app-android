@@ -12,7 +12,7 @@ Como executar
 
 Clone o repositório:
 
-git clone https://github.com/seuusuario/nome-do-repositorio.git
+git clone https://github.com/carolynecss/primeiro-app-android
 
 
 Abra o projeto no Android Studio
